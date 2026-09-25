@@ -47,7 +47,7 @@ covering:
 
 ### Client Requirements
 
-|[image alt](https://github.com/Soonatic/Mega-Market-Profit--Sales--Analysis/blob/845ea3ba67177173de38a83950573fafbd3603fd/Screenshot%202026-09-25%20150407.png)
+![image alt](https://github.com/Soonatic/Mega-Market-Profit--Sales--Analysis/blob/845ea3ba67177173de38a83950573fafbd3603fd/Screenshot%202026-09-25%20150407.png)
 
   -----------------------------------------------------------------------
   Requirement                         Deliverable
