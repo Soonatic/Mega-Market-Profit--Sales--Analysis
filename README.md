@@ -126,6 +126,8 @@ transaction records**.
 Blank Customer Type, Payment Method, and City values were retained as
 **"Unknown"** rather than being artificially filled with guessed values.
 
+![image alt](https://github.com/Soonatic/Mega-Market-Profit--Sales--Analysis/blob/336928d510d9b4e993cc2d50348ec004f58a755b/Screenshot%202026-09-25%20150438.png)
+
 ------------------------------------------------------------------------
 
 ## 3. Data Organization & Analytical Model
