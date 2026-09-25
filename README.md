@@ -257,6 +257,8 @@ The full-year FY2025 cleaned dataset contains:
 -   **Return Rate:** 1.8%
 -   **Cleaned Transactions:** 2,000
 
+-   ![image alt](https://github.com/Soonatic/Mega-Market-Profit--Sales--Analysis/blob/d6403f3e4285b489748aa3d292990fb1c164bc73/Screenshot%202026-09-25%20151151.png)
+
 ### Sales & Profit Drivers
 
 **Groceries** is the largest category by Net Sales, contributing
