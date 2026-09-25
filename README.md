@@ -238,6 +238,8 @@ filters through the **Calc** formula layer.
 -   Return analysis
 -   Live business highlights
 
+-   ![image alt](https://github.com/Soonatic/Mega-Market-Profit--Sales--Analysis/blob/ebca2f8b27dd36cebbb9b76f92e38356ad59fd8b/Screenshot%202026-09-25%20151927.png)
+
 ------------------------------------------------------------------------
 
 ## 5. Key Business Insights
