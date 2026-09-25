@@ -225,6 +225,8 @@ The dashboard includes dropdown-based filtering for:
 All major KPIs, charts, and analytical sections respond to the selected
 filters through the **Calc** formula layer.
 
+![image alt](https://github.com/Soonatic/Mega-Market-Profit--Sales--Analysis/blob/b677ce2fb54cc79085794c4e34406b3df04be51d/Screenshot%202026-09-25%20151356.png)
+
 ### Dashboard analysis areas
 
 -   Monthly sales and profit trend
